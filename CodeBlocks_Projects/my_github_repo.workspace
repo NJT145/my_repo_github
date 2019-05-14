@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="my_github_repo">
+		<Project filename="HelloWorld_C/HelloWorld_C.cbp" />
+		<Project filename="HelloWorld_C++/HelloWorld_C++.cbp" />
+		<Project filename="codes_c/codes_c.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
