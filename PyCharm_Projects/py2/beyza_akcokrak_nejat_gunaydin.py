@@ -19,9 +19,9 @@ class Transaction(object):
         return (self.timestamp, self.from_user, self.to_user, self.amount)
 
     def transaction_type(self):
-        if self.from_user!=self.to_user:
+        if self.from_user != self.to_user:
             return "transfer"
-        if self.amount<0:
+        if self.amount < 0:
             return "withdraw"
         return "deposit"
 
@@ -45,26 +45,26 @@ class User(object):
     def get_balance(self):
         return self.balance
 
-    def set_balance(self, amount):
-        self.balance = amount
+    def add_balance(self, amount):
+        self.balance += amount
 
     def add_transaction(self, transaction):
         self.transaction_counter += 1
         index = self.transaction_counter
         info = transaction.get_info()
-        if transaction.transaction_type()=="deposit":
+        if transaction.transaction_type() == "deposit":
             self.deposits[index] = "Deposited " + str(info[3]) + " " + str(info[0])
-        elif transaction.transaction_type()=="withdraw":
+        elif transaction.transaction_type() == "withdraw":
             self.withdrawals[index] = "Withdrawed " + str(-info[3]) + " " + str(info[0])
-        elif transaction.transaction_type()=="transfer":
-            if info[1]==self.get_username():
+        elif transaction.transaction_type() == "transfer":
+            if info[1] == self.get_username():
                 self.transfers[index] = "Transfered " + str(info[3]) + " to " + str(info[2]) + " " + str(info[0])
             else:
                 self.transfers[index] = "Transfered " + str(info[3]) + " to me from " + info[1] + " " + str(info[0])
 
     def get_transactions(self):
         transactions = []
-        for index in range(1,self.transaction_counter+1):
+        for index in range(1, self.transaction_counter + 1):
             if index in self.deposits.keys():
                 transactions.append(self.deposits[index])
             elif index in self.withdrawals.keys():
@@ -85,9 +85,7 @@ class User(object):
         return self.transfers
 
     def do_deposit_withdraw(self, amount):
-        if amount < 0 and -amount < self.get_balance():  # withdraw transaction error
-            raise ValueError("deposit_withdraw_error")
-        self.set_balance(self.get_balance() + amount) # do deposit (positive amount) or withdraw (negative amount)
+        self.add_balance(amount)  # do deposit (positive amount) or withdraw (negative amount)
 
     def user_info(self):
         return [self.get_username(), self.get_password(), self.get_balance(), self.get_transactions()]
@@ -106,12 +104,12 @@ class DataStorageInterface(object):
 
     def check_transaction(self, from_user, to_user, amount):
         if from_user != to_user:  # transfer transaction
-            if amount < self.get_user(from_user).get_balance():  # transfer transaction error
+            if amount > self.get_user(from_user).get_balance():  # transfer transaction error
                 return False
             return True  # transfer is possible
-        else: # deposit or withdraw transaction
+        else:  # deposit or withdraw transaction
             if amount < 0:  # withdraw transaction
-                if amount < self.get_user(from_user).get_balance():  # withdraw transaction error
+                if -amount > self.get_user(from_user).get_balance():  # withdraw transaction error
                     return False
                 return True  # withdraw is possible
             return True  # no error for deposit transactions
@@ -121,9 +119,6 @@ class DataStorage(DataStorageInterface):
     def __init__(self):
         super(DataStorage, self).__init__()
         self.current_user = None
-        self.add_user("Ahmed", "1234")
-        self.add_user("Erva", "4321")
-        self.add_user("Ayse", "4422")
 
     def login(self, username, password):
         try:
@@ -186,6 +181,9 @@ class DataStorage(DataStorageInterface):
 class BankApp(object):
     def __init__(self):
         self.datastore = DataStorage()
+        self.datastore.add_user("Ahmed", "1234")
+        self.datastore.add_user("Erva", "4321")
+        self.datastore.add_user("Ayse", "4422")
         self.service_error = "Please enter a number that is a valid input."
         self.login_error = "Wrong User Name or Password. Please Try Again!"
         self.input_error = "Please enter a valid input."
@@ -273,7 +271,7 @@ class BankApp(object):
 
     def transfer(self, to_user=None, repeating=False):
         if repeating:
-            service_transfer = raw_input(" 1. Transfer again.\n 2. Go back to main menu.")
+            service_transfer = raw_input(" 1. Transfer again.\n 2. Go back to main menu.\n>>>")
             if service_transfer == "1":
                 return self.transfer(to_user=to_user)
             elif service_transfer == "2":
@@ -292,7 +290,7 @@ class BankApp(object):
             print("You can not make transfer to yourself.\nGoing back to main menu...")
             return
         try:
-            money_input = int(raw_input("\nHow much would you like to transfer ? "))
+            money_input = int(raw_input("How much would you like to transfer ? "))
         except:
             print(self.service_error)
             return self.transfer(to_user=to_user, repeating=True)
@@ -305,7 +303,6 @@ class BankApp(object):
                 print("Please enter a positive number at next time.\nGoing back to main menu...")
             elif check_transfer == "done":
                 print("Transfering " + str(money_input) + " TL to " + to_user + " Succeeded.")
-
 
     def account_info(self):
         user_info = self.datastore.get_current_user().user_info()
