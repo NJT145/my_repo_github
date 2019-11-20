@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e659aa6-c92c-4449-968d-c69d0e2c6057" name="Default Changelist" comment="" />
+    <list default="true" id="3e659aa6-c92c-4449-968d-c69d0e2c6057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/run2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py3/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py3/utils/dequeUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py3/utils/listUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py3/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PyCharm_Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PyCharm_Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py3/.idea/py3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../py3/.idea/py3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py3/utils.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +28,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1TEneYqGMEzCTbtglZuy15LRaUY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -194,11 +209,23 @@
       <workItem from="1573120809485" duration="1428000" />
       <workItem from="1573122259309" duration="8121000" />
       <workItem from="1573141633281" duration="2914000" />
+      <workItem from="1574180981115" duration="688000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ResizeNSaveImageToBTM$test.coverage" NAME="test Coverage Results" MODIFIED="1573127765284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
