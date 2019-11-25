@@ -135,14 +135,14 @@ dirName3 = r"C:\Users\nejat.gunaydin\Desktop\folder\KDENEME.JPG"
 # convertFiles2JPG(dirName, baseWidth1)
 #doResize(dirName2, 600)
 #doResize2(dirName3, 59, 59)
-listOfFiles = getListOfImageFiles(dirName)
-for filePath in listOfFiles:
-    dirPath, fileNameWithExt = os.path.split(filePath)
-    fileName, ext = os.path.splitext(fileNameWithExt)
-    filePath2 = os.path.join(dirPath, fileName + '_k' + ext)
-    doResize2(filePath, 59, 59, resultPath=filePath2)
+# listOfFiles = getListOfImageFiles(dirName)
+# for filePath in listOfFiles:
+#     dirPath, fileNameWithExt = os.path.split(filePath)
+#     fileName, ext = os.path.splitext(fileNameWithExt)
+#     filePath2 = os.path.join(dirPath, fileName + '_k' + ext)
+#     doResize2(filePath, 59, 59, resultPath=filePath2)
 #createEmptyImg(r"C:\Users\nejat.gunaydin\Desktop\testIMG.JPG", 456, 961, colorRBG=(0, 0, 0), fileType="JPEG")
-#colorRBG=(0, 0, 0)
-#size = (961, 456)
-#convertFiles2JPG(dirName, size, background=True, bg_colorRBG=colorRBG)
+colorRBG=(0, 0, 0)
+size = (500, 10000)
+convertFiles2JPG(dirName, size, background=False, bg_colorRBG=colorRBG)
 
