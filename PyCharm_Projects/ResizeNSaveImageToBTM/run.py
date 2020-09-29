@@ -58,6 +58,10 @@ def do_resize(path, base_width, background=False, bg_size=None, bg_color_rgb=(25
 def convert2jpg(filepath):
     ext = os.path.splitext(filepath)[1]
     img = Image.open(filepath)
+    #
+    w_size, h_size = img.size[0], img.size[1]
+    print("## w_size:["+str(w_size)+"], h_size:["+str(h_size)+"]")
+    #
     img = img.convert('RGB')
     if ext.upper() in convertFiles_ext_list:
         filepath_new = os.path.splitext(filepath)[0] + convertTo_ext

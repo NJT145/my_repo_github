@@ -1,0 +1,1241 @@
+## w_size:[1633], h_size:[1000]
+##########
+assets\images\Clip\20100710.jpg
+assets\images\Clip\20100710.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1572], h_size:[1000]
+##########
+assets\images\Clip\20100711.jpg
+assets\images\Clip\20100711.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1500], h_size:[585]
+##########
+assets\images\Clip\20100724.jpg
+assets\images\Clip\20100724.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1134]
+##########
+assets\images\Clip\20100808.jpg
+assets\images\Clip\20100808.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1459]
+##########
+assets\images\Clip\20100905.jpg
+assets\images\Clip\20100905.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[709]
+##########
+assets\images\Clip\20101003.jpg
+assets\images\Clip\20101003.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[567]
+##########
+assets\images\Clip\20101209.jpg
+assets\images\Clip\20101209.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Clip\20101213.jpg
+assets\images\Clip\20101213.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[564]
+##########
+assets\images\Clip\20110108.jpg
+assets\images\Clip\20110108.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[725]
+##########
+assets\images\Clip\20110305.jpg
+assets\images\Clip\20110305.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[583]
+##########
+assets\images\Clip\20110523.jpg
+assets\images\Clip\20110523.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Clip\20110705.JPG
+assets\images\Clip\20110705.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[777]
+##########
+assets\images\Clip\20111021.jpg
+assets\images\Clip\20111021.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[480]
+##########
+assets\images\Clip\20111023.jpg
+assets\images\Clip\20111023.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1424]
+##########
+assets\images\Clip\20111029.jpg
+assets\images\Clip\20111029.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[487]
+##########
+assets\images\Clip\20111029b.jpg
+assets\images\Clip\20111029b.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[983]
+##########
+assets\images\Clip\20111030.jpg
+assets\images\Clip\20111030.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[818]
+##########
+assets\images\Clip\20111030b.jpg
+assets\images\Clip\20111030b.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Clip\20111126.jpg
+assets\images\Clip\20111126.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[836]
+##########
+assets\images\Clip\20120114.jpg
+assets\images\Clip\20120114.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1001]
+##########
+assets\images\Clip\20120129.jpg
+assets\images\Clip\20120129.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[646]
+##########
+assets\images\Clip\20120304.jpg
+assets\images\Clip\20120304.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[557], h_size:[1024]
+##########
+assets\images\Clip\20140706.jpeg
+assets\images\Clip\20140706.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[960], h_size:[637]
+##########
+assets\images\Clip\20140723.jpeg
+assets\images\Clip\20140723.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Clip\20141130.jpeg
+assets\images\Clip\20141130.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Clip\20150219.jpeg
+assets\images\Clip\20150219.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[498]
+##########
+assets\images\Clip\20180331.jpeg
+assets\images\Clip\20180331.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[497]
+##########
+assets\images\Clip\20180518.jpeg
+assets\images\Clip\20180518.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Clip\20181202.jpeg
+assets\images\Clip\20181202.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Clip\20190303.jpeg
+assets\images\Clip\20190303.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Clip\20190824.jpeg
+assets\images\Clip\20190824.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Clip\20200324.jpeg
+assets\images\Clip\20200324.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[2023], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(1)20100717.jpg
+assets\images\Photos\Cihangirde\(1)20100717.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1124]
+##########
+assets\images\Photos\Cihangirde\(1)20100802.jpg
+assets\images\Photos\Cihangirde\(1)20100802.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[903]
+##########
+assets\images\Photos\Cihangirde\(1)20100901.jpg
+assets\images\Photos\Cihangirde\(1)20100901.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1126], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(1)24canta.jpg
+assets\images\Photos\Cihangirde\(1)24canta.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1500], h_size:[585]
+##########
+assets\images\Photos\Cihangirde\(1)24piyano.jpg
+assets\images\Photos\Cihangirde\(1)24piyano.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1414], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(1)24voit.jpg
+assets\images\Photos\Cihangirde\(1)24voit.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[785]
+##########
+assets\images\Photos\Cihangirde\(1)3 Ekim.jpg
+assets\images\Photos\Cihangirde\(1)3 Ekim.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[981]
+##########
+assets\images\Photos\Cihangirde\(2)akadoremi_3.jpg
+assets\images\Photos\Cihangirde\(2)akadoremi_3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1217]
+##########
+assets\images\Photos\Cihangirde\(2)bugün1.jpg
+assets\images\Photos\Cihangirde\(2)bugün1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1572], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(2)bugün2.jpg
+assets\images\Photos\Cihangirde\(2)bugün2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1536], h_size:[2048]
+##########
+assets\images\Photos\Cihangirde\(3)IMG00033-20100708-1902.jpg
+assets\images\Photos\Cihangirde\(3)IMG00033-20100708-1902.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1152], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(3)IMG00038-20100708-1911.jpg
+assets\images\Photos\Cihangirde\(3)IMG00038-20100708-1911.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1152], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(3)IMG00042-20100709-1946.jpg
+assets\images\Photos\Cihangirde\(3)IMG00042-20100709-1946.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[3081], h_size:[2498]
+##########
+assets\images\Photos\Cihangirde\(4)kedi.jpg
+assets\images\Photos\Cihangirde\(4)kedi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[3379], h_size:[2069]
+##########
+assets\images\Photos\Cihangirde\(4)kedi_1.jpg
+assets\images\Photos\Cihangirde\(4)kedi_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1139], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)lavachequiri_1.jpg
+assets\images\Photos\Cihangirde\(4)lavachequiri_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1009], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)lavachequiri_2.jpg
+assets\images\Photos\Cihangirde\(4)lavachequiri_2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1367], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)saklambac.jpg
+assets\images\Photos\Cihangirde\(4)saklambac.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2358], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)uyku1.jpg
+assets\images\Photos\Cihangirde\(4)uyku1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1426]
+##########
+assets\images\Photos\Cihangirde\(4)uyku2.jpg
+assets\images\Photos\Cihangirde\(4)uyku2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1194], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)uyku3.jpg
+assets\images\Photos\Cihangirde\(4)uyku3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1829], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(4)uyku4.jpg
+assets\images\Photos\Cihangirde\(4)uyku4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[822], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(5)doremi 2.jpg
+assets\images\Photos\Cihangirde\(5)doremi 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[553]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi 3.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi 3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[667]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi 4.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi 4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi 5.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi 5.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1001]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi 7.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi 7.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1134]
+##########
+assets\images\Photos\Cihangirde\(5)doremi.jpg
+assets\images\Photos\Cihangirde\(5)doremi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1459]
+##########
+assets\images\Photos\Cihangirde\(5)doremi4.jpg
+assets\images\Photos\Cihangirde\(5)doremi4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[667]
+##########
+assets\images\Photos\Cihangirde\(5)doremi5.jpg
+assets\images\Photos\Cihangirde\(5)doremi5.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[751]
+##########
+assets\images\Photos\Cihangirde\(5)doremi6.jpg
+assets\images\Photos\Cihangirde\(5)doremi6.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[725]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi7.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi7.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[988]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_1 2.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_1 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[583]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_1 3.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_1 3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_1 4.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_1 4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[681], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(5)doremi_1.jpg
+assets\images\Photos\Cihangirde\(5)doremi_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[564]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_2 2.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_2 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[567]
+##########
+assets\images\Photos\Cihangirde\(5)doremi_2.jpg
+assets\images\Photos\Cihangirde\(5)doremi_2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[553]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_3 2.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_3 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[669], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(5)doremi_3.jpg
+assets\images\Photos\Cihangirde\(5)doremi_3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[832], h_size:[1000]
+##########
+assets\images\Photos\Cihangirde\(5)DoReMi_4.jpg
+assets\images\Photos\Cihangirde\(5)DoReMi_4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[480], h_size:[640]
+##########
+assets\images\Photos\Cihangirde\(6)1 (14).jpg
+assets\images\Photos\Cihangirde\(6)1 (14).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)1 (20).jpg
+assets\images\Photos\Cihangirde\(6)1 (20).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)1 (55).jpg
+assets\images\Photos\Cihangirde\(6)1 (55).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1500]
+##########
+assets\images\Photos\Cihangirde\(6)20100904.jpg
+assets\images\Photos\Cihangirde\(6)20100904.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[758]
+##########
+assets\images\Photos\Cihangirde\(6)20101228.jpg
+assets\images\Photos\Cihangirde\(6)20101228.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Photos\Cihangirde\(6)20110705.JPG
+assets\images\Photos\Cihangirde\(6)20110705.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00176-20101226-2145.jpg
+assets\images\Photos\Cihangirde\(6)IMG00176-20101226-2145.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00200-20110102-2127.jpg
+assets\images\Photos\Cihangirde\(6)IMG00200-20110102-2127.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1536], h_size:[1152]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00202-20110102-2128.jpg
+assets\images\Photos\Cihangirde\(6)IMG00202-20110102-2128.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00209-20110108-0854.jpg
+assets\images\Photos\Cihangirde\(6)IMG00209-20110108-0854.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00210-20110108-0859.jpg
+assets\images\Photos\Cihangirde\(6)IMG00210-20110108-0859.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00211-20110108-0859.jpg
+assets\images\Photos\Cihangirde\(6)IMG00211-20110108-0859.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00213-20110108-0902.jpg
+assets\images\Photos\Cihangirde\(6)IMG00213-20110108-0902.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1792], h_size:[1344]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00214-20110108-0904.jpg
+assets\images\Photos\Cihangirde\(6)IMG00214-20110108-0904.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00215-20110108-0906.jpg
+assets\images\Photos\Cihangirde\(6)IMG00215-20110108-0906.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00217-20110108-0907.jpg
+assets\images\Photos\Cihangirde\(6)IMG00217-20110108-0907.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1792], h_size:[1344]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00218-20110108-0910.jpg
+assets\images\Photos\Cihangirde\(6)IMG00218-20110108-0910.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00220-20110108-0919.jpg
+assets\images\Photos\Cihangirde\(6)IMG00220-20110108-0919.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1792], h_size:[1344]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00222-20110108-1215.jpg
+assets\images\Photos\Cihangirde\(6)IMG00222-20110108-1215.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1792], h_size:[1344]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00238-20110115-1546.jpg
+assets\images\Photos\Cihangirde\(6)IMG00238-20110115-1546.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00243-20110115-2315.jpg
+assets\images\Photos\Cihangirde\(6)IMG00243-20110115-2315.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00244-20110116-0023.jpg
+assets\images\Photos\Cihangirde\(6)IMG00244-20110116-0023.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00255-20110116-1214.jpg
+assets\images\Photos\Cihangirde\(6)IMG00255-20110116-1214.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00256-20110116-1215.jpg
+assets\images\Photos\Cihangirde\(6)IMG00256-20110116-1215.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00565-20110319-1828.jpg
+assets\images\Photos\Cihangirde\(6)IMG00565-20110319-1828.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00566-20110319-1829.jpg
+assets\images\Photos\Cihangirde\(6)IMG00566-20110319-1829.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00574-20110327-2233.jpg
+assets\images\Photos\Cihangirde\(6)IMG00574-20110327-2233.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1792], h_size:[1344]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00599-20110409-1412.jpg
+assets\images\Photos\Cihangirde\(6)IMG00599-20110409-1412.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00665-20110423-1607.jpg
+assets\images\Photos\Cihangirde\(6)IMG00665-20110423-1607.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00667-20110423-1639.jpg
+assets\images\Photos\Cihangirde\(6)IMG00667-20110423-1639.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00668-20110423-1657.jpg
+assets\images\Photos\Cihangirde\(6)IMG00668-20110423-1657.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00671-20110424-0128.jpg
+assets\images\Photos\Cihangirde\(6)IMG00671-20110424-0128.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Cihangirde\(6)IMG00676-20110424-0852.jpg
+assets\images\Photos\Cihangirde\(6)IMG00676-20110424-0852.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[857]
+##########
+assets\images\Photos\Claraile\(1)Canavarlar (1).jpg
+assets\images\Photos\Claraile\(1)Canavarlar (1).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[777]
+##########
+assets\images\Photos\Claraile\(1)Canavarlar.jpg
+assets\images\Photos\Claraile\(1)Canavarlar.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[480]
+##########
+assets\images\Photos\Claraile\(1)catnip.jpg
+assets\images\Photos\Claraile\(1)catnip.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[936], h_size:[1200]
+##########
+assets\images\Photos\Claraile\(1)Clara&DoReMi.jpg
+assets\images\Photos\Claraile\(1)Clara&DoReMi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[804]
+##########
+assets\images\Photos\Claraile\(1)Clara.jpg
+assets\images\Photos\Claraile\(1)Clara.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[646]
+##########
+assets\images\Photos\Claraile\(1)ClaraDoReMi 2.jpg
+assets\images\Photos\Claraile\(1)ClaraDoReMi 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[836]
+##########
+assets\images\Photos\Claraile\(1)ClaraDoReMi.jpg
+assets\images\Photos\Claraile\(1)ClaraDoReMi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[640]
+##########
+assets\images\Photos\Claraile\(1)ClaraDoReMi_1.jpg
+assets\images\Photos\Claraile\(1)ClaraDoReMi_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1169]
+##########
+assets\images\Photos\Claraile\(1)DoReMi 6.jpg
+assets\images\Photos\Claraile\(1)DoReMi 6.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1040], h_size:[1200]
+##########
+assets\images\Photos\Claraile\(1)DoReMi&Clara.jpg
+assets\images\Photos\Claraile\(1)DoReMi&Clara.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[833]
+##########
+assets\images\Photos\Claraile\(1)DoReMiClara 2.jpg
+assets\images\Photos\Claraile\(1)DoReMiClara 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[732]
+##########
+assets\images\Photos\Claraile\(1)DoReMiClara_1.jpg
+assets\images\Photos\Claraile\(1)DoReMiClara_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1498]
+##########
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (1).jpg
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (1).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[789]
+##########
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (2).jpg
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (2).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[714]
+##########
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (3).jpg
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (3).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1537]
+##########
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (4).jpg
+assets\images\Photos\Claraile\(1)DoReMiveKankasi (4).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[685]
+##########
+assets\images\Photos\Claraile\(1)DoReMiveKankasi.jpg
+assets\images\Photos\Claraile\(1)DoReMiveKankasi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[864]
+##########
+assets\images\Photos\Claraile\(1)Grekoromen (1).jpg
+assets\images\Photos\Claraile\(1)Grekoromen (1).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[893]
+##########
+assets\images\Photos\Claraile\(1)Grekoromen (2).jpg
+assets\images\Photos\Claraile\(1)Grekoromen (2).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1424]
+##########
+assets\images\Photos\Claraile\(1)Grekoromen (3).jpg
+assets\images\Photos\Claraile\(1)Grekoromen (3).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1399]
+##########
+assets\images\Photos\Claraile\(1)Grekoromen (4).jpg
+assets\images\Photos\Claraile\(1)Grekoromen (4).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[773]
+##########
+assets\images\Photos\Claraile\(1)Grekoromen.jpg
+assets\images\Photos\Claraile\(1)Grekoromen.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[786]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (1).jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (1).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[487]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (2).jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (2).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[451]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (3).jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (3).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (4).jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (4).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[747]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (5).jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi (5).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[761]
+##########
+assets\images\Photos\Claraile\(1)Haftasonu keyfi.jpg
+assets\images\Photos\Claraile\(1)Haftasonu keyfi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[639]
+##########
+assets\images\Photos\Claraile\(1)kuyruk.jpg
+assets\images\Photos\Claraile\(1)kuyruk.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[975]
+##########
+assets\images\Photos\Claraile\(1)Savaş.jpg
+assets\images\Photos\Claraile\(1)Savaş.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[800]
+##########
+assets\images\Photos\Claraile\(1)uyku (1).jpg
+assets\images\Photos\Claraile\(1)uyku (1).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[696]
+##########
+assets\images\Photos\Claraile\(1)uyku (2).jpg
+assets\images\Photos\Claraile\(1)uyku (2).small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[818]
+##########
+assets\images\Photos\Claraile\(1)uyku.jpg
+assets\images\Photos\Claraile\(1)uyku.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[789]
+##########
+assets\images\Photos\Claraile\(2)20111018.jpg
+assets\images\Photos\Claraile\(2)20111018.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[398]
+##########
+assets\images\Photos\Claraile\(2)20111124.jpg
+assets\images\Photos\Claraile\(2)20111124.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[5760], h_size:[3840]
+##########
+assets\images\Photos\Claraile\(2)20130331.JPG
+assets\images\Photos\Claraile\(2)20130331.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Claraile\(3)10.jpg
+assets\images\Photos\Claraile\(3)10.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Claraile\(3)11.jpg
+assets\images\Photos\Claraile\(3)11.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Claraile\(3)19.jpg
+assets\images\Photos\Claraile\(3)19.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Claraile\(3)20.jpg
+assets\images\Photos\Claraile\(3)20.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[498]
+##########
+assets\images\Photos\Claraile\(3)20180331.jpeg
+assets\images\Photos\Claraile\(3)20180331.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Claraile\(3)20190824.jpeg
+assets\images\Photos\Claraile\(3)20190824.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[1024]
+##########
+assets\images\Photos\Claraile\(3)4.jpg
+assets\images\Photos\Claraile\(3)4.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Claraile\(3)9.jpg
+assets\images\Photos\Claraile\(3)9.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[480], h_size:[320]
+##########
+assets\images\Photos\Kedilerle\cid_0B0C69BC-B019-4FA2-AE5D-63FE643C4EBB.jpg
+assets\images\Photos\Kedilerle\cid_0B0C69BC-B019-4FA2-AE5D-63FE643C4EBB.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Kedilerle\IMG00317-20110210-0822.jpg
+assets\images\Photos\Kedilerle\IMG00317-20110210-0822.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Kedilerle\IMG00549-20110315-2001.jpg
+assets\images\Photos\Kedilerle\IMG00549-20110315-2001.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Kedilerle\IMG00606-20110414-1917.jpg
+assets\images\Photos\Kedilerle\IMG00606-20110414-1917.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Kedilerle\IMG00635-20110417-1327.jpg
+assets\images\Photos\Kedilerle\IMG00635-20110417-1327.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Kedilerle\IMG00636-20110417-1328.jpg
+assets\images\Photos\Kedilerle\IMG00636-20110417-1328.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\12.jpg
+assets\images\Photos\Topagacinda\12.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\13.jpg
+assets\images\Photos\Topagacinda\13.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Topagacinda\15.jpg
+assets\images\Photos\Topagacinda\15.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\16.jpg
+assets\images\Photos\Topagacinda\16.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\17.jpg
+assets\images\Photos\Topagacinda\17.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\18.jpg
+assets\images\Photos\Topagacinda\18.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Topagacinda\20150219.jpeg
+assets\images\Photos\Topagacinda\20150219.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[497]
+##########
+assets\images\Photos\Topagacinda\20180518.jpeg
+assets\images\Photos\Topagacinda\20180518.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Topagacinda\20181202.jpeg
+assets\images\Photos\Topagacinda\20181202.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\20200324.jpeg
+assets\images\Photos\Topagacinda\20200324.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\21.jpg
+assets\images\Photos\Topagacinda\21.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\22.jpg
+assets\images\Photos\Topagacinda\22.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\23.jpg
+assets\images\Photos\Topagacinda\23.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[576], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\24.jpg
+assets\images\Photos\Topagacinda\24.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[576], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\25.jpg
+assets\images\Photos\Topagacinda\25.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[576], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\26.jpg
+assets\images\Photos\Topagacinda\26.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\7.jpg
+assets\images\Photos\Topagacinda\7.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Topagacinda\8.jpg
+assets\images\Photos\Topagacinda\8.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1200], h_size:[1599]
+##########
+assets\images\Photos\Topagacinda\Lars.jpg
+assets\images\Photos\Topagacinda\Lars.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1024], h_size:[768]
+##########
+assets\images\Photos\Topagacinda\WhatsApp Image 2020-08-03 at 15.13.46.jpeg
+assets\images\Photos\Topagacinda\WhatsApp Image 2020-08-03 at 15.13.46.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[680]
+##########
+assets\images\Photos\Insanlarla\(1)akadoremi.jpg
+assets\images\Photos\Insanlarla\(1)akadoremi.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[915]
+##########
+assets\images\Photos\Insanlarla\(1)akadoremi_1.jpg
+assets\images\Photos\Insanlarla\(1)akadoremi_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[709]
+##########
+assets\images\Photos\Insanlarla\(1)akadoremi_2.jpg
+assets\images\Photos\Insanlarla\(1)akadoremi_2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1341]
+##########
+assets\images\Photos\Insanlarla\(1)akavecanavarlar.jpg
+assets\images\Photos\Insanlarla\(1)akavecanavarlar.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1626], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(1)alimurat.jpg
+assets\images\Photos\Insanlarla\(1)alimurat.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1596], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(2)espana.jpg
+assets\images\Photos\Insanlarla\(2)espana.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1275], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(2)espana_1.jpg
+assets\images\Photos\Insanlarla\(2)espana_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1008], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(2)espana_2.jpg
+assets\images\Photos\Insanlarla\(2)espana_2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1082]
+##########
+assets\images\Photos\Insanlarla\(2)espana_3.jpg
+assets\images\Photos\Insanlarla\(2)espana_3.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1561]
+##########
+assets\images\Photos\Insanlarla\(3)Melis 2.jpg
+assets\images\Photos\Insanlarla\(3)Melis 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1394], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(3)melis.jpg
+assets\images\Photos\Insanlarla\(3)melis.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1198]
+##########
+assets\images\Photos\Insanlarla\(3)Meliss.jpg
+assets\images\Photos\Insanlarla\(3)Meliss.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1649]
+##########
+assets\images\Photos\Insanlarla\(3)Melisss.jpg
+assets\images\Photos\Insanlarla\(3)Melisss.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2198], h_size:[1197]
+##########
+assets\images\Photos\Insanlarla\(3)quartet_1.jpg
+assets\images\Photos\Insanlarla\(3)quartet_1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[687]
+##########
+assets\images\Photos\Insanlarla\(3)Yesim 2.jpg
+assets\images\Photos\Insanlarla\(3)Yesim 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1927], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(3)yesim.jpg
+assets\images\Photos\Insanlarla\(3)yesim.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1000], h_size:[1351]
+##########
+assets\images\Photos\Insanlarla\(3)Zumrut 2.jpg
+assets\images\Photos\Insanlarla\(3)Zumrut 2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[1211], h_size:[1000]
+##########
+assets\images\Photos\Insanlarla\(3)zumrut.jpg
+assets\images\Photos\Insanlarla\(3)zumrut.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[480], h_size:[640]
+##########
+assets\images\Photos\Insanlarla\(4)Annem.jpg
+assets\images\Photos\Insanlarla\(4)Annem.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Insanlarla\(4)IMG00584-20110403-1132.jpg
+assets\images\Photos\Insanlarla\(4)IMG00584-20110403-1132.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Insanlarla\(4)IMG00586-20110403-1134.jpg
+assets\images\Photos\Insanlarla\(4)IMG00586-20110403-1134.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[2048], h_size:[1536]
+##########
+assets\images\Photos\Insanlarla\(4)IMG00588-20110403-1135.jpg
+assets\images\Photos\Insanlarla\(4)IMG00588-20110403-1135.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[960], h_size:[592]
+##########
+assets\images\Photos\Insanlarla\(5)1.jpg
+assets\images\Photos\Insanlarla\(5)1.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[960], h_size:[563]
+##########
+assets\images\Photos\Insanlarla\(5)2.jpg
+assets\images\Photos\Insanlarla\(5)2.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[557], h_size:[1024]
+##########
+assets\images\Photos\Insanlarla\(5)20140706.jpeg
+assets\images\Photos\Insanlarla\(5)20140706.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[960], h_size:[637]
+##########
+assets\images\Photos\Insanlarla\(5)20140723.jpeg
+assets\images\Photos\Insanlarla\(5)20140723.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Insanlarla\(5)20141130.jpeg
+assets\images\Photos\Insanlarla\(5)20141130.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Insanlarla\(5)20190303.jpeg
+assets\images\Photos\Insanlarla\(5)20190303.small.JPG
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Insanlarla\(5)5.jpg
+assets\images\Photos\Insanlarla\(5)5.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[768], h_size:[1024]
+##########
+assets\images\Photos\Insanlarla\(5)6.jpg
+assets\images\Photos\Insanlarla\(5)6.small.jpg
+##########
+        1 file(s) copied.
+## w_size:[4096], h_size:[3072]
+##########
+assets\images\Siteninacilisi.jpg
+assets\images\Siteninacilisi.small.jpg
+##########

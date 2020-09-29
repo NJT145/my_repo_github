@@ -6,9 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-py2exe = "*"
-pillow = "*"
+future = "*"
 numpy = "*"
+pillow = "*"
+py2exe = "*"
+six = "*"
 
 [requires]
 python_version = "3.8"
