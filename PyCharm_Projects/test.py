@@ -4,7 +4,7 @@ import os
 import copy
 from typing import Dict, List, Tuple
 
-#print("hello world")
+# print("hello world")
 
 path1 = os.path.join(os.getcwd(), "paths.txt")
 dir_path1 = r"C:\Users\nejat.gunaydin\Desktop\folder1"
@@ -52,6 +52,7 @@ def path_replace(path):
     }
     return path.translate(replace_map)
 
+
 def main1(path):
     path_list_dict = {"Clip": [], "Photos": []}
     clip_start = "assets\\images\\Clip\\"
@@ -65,7 +66,7 @@ def main1(path):
             txt_split = part.strip().split("\n##########\n")
             sizes_txt, paths_txt = txt_split[0], txt_split[1].rstrip("#").strip().split("\n")
             #
-            w_size= sizes_txt.strip().split(",")[0].split(":")[1].lstrip("[").rstrip("]")
+            w_size = sizes_txt.strip().split(",")[0].split(":")[1].lstrip("[").rstrip("]")
             h_size = sizes_txt.strip().split(",")[1].split(":")[1].lstrip("[").rstrip("]")
             data_size = w_size + "x" + h_size
             #
@@ -75,8 +76,11 @@ def main1(path):
                 category = path_src[len(photos_start):].split("\\")[0].lower()
             #
             dict_key = None
-            if path_href.startswith(clip_start): dict_key = "Clip"
-            elif path_href.startswith(photos_start): dict_key = "Photos"
+            if path_href.startswith(clip_start):
+                dict_key = "Clip"
+            elif path_href.startswith(photos_start):
+                dict_key = "Photos"
+            #
             if dict_key is not None:
                 path_list_dict[dict_key].append((path_href, path_src, category, description, data_size))
         f.close()
@@ -106,8 +110,10 @@ def main2(path_list: List[Tuple]) -> str:
         filepath_href = os.path.join(dir_path1, path_href)
         filepath_src = os.path.join(dir_path1, path_src)
         if os.path.exists(filepath_href) or os.path.exists(filepath_src):
-            if not os.path.exists(filepath_src): raise Exception("small image file not found")
-            if not os.path.exists(filepath_href): raise Exception("big image file not found")
+            if not os.path.exists(filepath_src):
+                raise Exception("small image file not found")
+            if not os.path.exists(filepath_href):
+                raise Exception("big image file not found")
             count_num += 1
             if not is_valid(path_href):
                 filepath_href_old = copy.copy(filepath_href)
@@ -128,8 +134,9 @@ def main2(path_list: List[Tuple]) -> str:
                              )
     return return_value
 
-#print(main2(main1(path1)["Clip"]))
-#print(main2(main1(path1)["Photos"]))
+
+# print(main2(main1(path1)["Clip"]))
+# print(main2(main1(path1)["Photos"]))
 i1 = "WhatsApp Video 2020-08-03 at 15.17.46.mp4"
 print(path_replace(i1))
-print(path_replace(i1)==i1)
+print(path_replace(i1) == i1)
