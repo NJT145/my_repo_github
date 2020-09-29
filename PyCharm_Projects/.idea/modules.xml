@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageFileEditor/.idea/ImageFileEditor.iml" filepath="$PROJECT_DIR$/ImageFileEditor/.idea/ImageFileEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PyCharm_Projects.iml" filepath="$PROJECT_DIR$/.idea/PyCharm_Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ResizeNSaveImageToBTM/.idea/ResizeNSaveImageToBTM.iml" filepath="$PROJECT_DIR$/ResizeNSaveImageToBTM/.idea/ResizeNSaveImageToBTM.iml" />
       <module fileurl="file://$PROJECT_DIR$/excelCompareColumns/.idea/excelCompareColumns.iml" filepath="$PROJECT_DIR$/excelCompareColumns/.idea/excelCompareColumns.iml" />
       <module fileurl="file://$PROJECT_DIR$/py2/.idea/py2.iml" filepath="$PROJECT_DIR$/py2/.idea/py2.iml" />
       <module fileurl="file://$PROJECT_DIR$/py3/.idea/py3.iml" filepath="$PROJECT_DIR$/py3/.idea/py3.iml" />

@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ResizeNSaveImageToBTM.run" type="PythonConfigurationType" factoryName="Python" folderName="ResizeNSaveImageToBTM" singleton="false">
-    <module name="ResizeNSaveImageToBTM" />
+  <configuration default="false" name="ImageFileEditor.photoEditGUI" type="PythonConfigurationType" factoryName="Python" folderName="ImageFileEditor" singleton="false">
+    <module name="ImageFileEditor" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
@@ -23,7 +23,7 @@
         <ENTRY IS_ENABLED="true" PARSER="env" PATH="ResizeNSaveImageToBTM/.env" />
       </ENTRIES>
     </EXTENSION>
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResizeNSaveImageToBTM/run.py" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResizeNSaveImageToBTM/photoEditGUI.py" />
     <option name="PARAMETERS" value="" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />

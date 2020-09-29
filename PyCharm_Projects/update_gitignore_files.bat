@@ -14,8 +14,8 @@
 @cmd /C  "echo Pipfile.lock >> %myRoot%\excelCompareColumns\.gitignore"
 @cmd /C  "echo .venv >> %myRoot%\excelCompareColumns\.gitignore"
 
-@cmd /C  "gi python > %myRoot%\ResizeNSaveImageToBTM\.gitignore"
-@cmd /C  "echo Pipfile.lock >> %myRoot%\ResizeNSaveImageToBTM\.gitignore"
-@cmd /C  "echo .venv >> %myRoot%\ResizeNSaveImageToBTM\.gitignore"
+@cmd /C  "gi python > %myRoot%\ImageFileEditor\.gitignore"
+@cmd /C  "echo Pipfile.lock >> %myRoot%\ImageFileEditor\.gitignore"
+@cmd /C  "echo .venv >> %myRoot%\ImageFileEditor\.gitignore"
 
 @endlocal
